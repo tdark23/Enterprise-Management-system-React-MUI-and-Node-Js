@@ -2,6 +2,11 @@
 
 This project is a sleek and efficient **Enterprise Management System** built using [Create React App](https://github.com/facebook/create-react-app). Designed with **Material-UI** for the frontend and powered by **Node.js** in the backend, it’s the perfect tool to simplify and organize enterprise operations.
 
+## 🌐 Live Demo  
+The app is live! Check it out here: [Enterprise Management System](https://ems-ntt-frontend.onrender.com/)
+
+---
+
 ## 🚀 Available Scripts
 
 In the project directory, you can run:
@@ -41,25 +46,4 @@ Use this command only if you need to customize the build tools (Webpack, Babel, 
 
 - Dive deeper into the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).  
 - Learn React from the [official React documentation](https://reactjs.org/).  
-- Explore [Material-UI](https://mui.com/material-ui/getting-started/overview/) for building responsive UIs.  
-- Power up with [Node.js documentation](https://nodejs.org/en/docs/).  
-
----
-
-### 🔧 Advanced Features
-
-- **Code Splitting:** [Learn more](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- **Analyzing Bundle Size:** [Find out how](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- **Progressive Web App:** [Make your app PWA-ready](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-- **Advanced Configuration:** [Customize your setup](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
-
----
-
-## 💡 Troubleshooting  
-
-- **`npm run build` fails to minify:** [Read the guide](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).  
-
----
-
-Built by Ted Mbang, with 💻, 🛠️, and a whole lot of ☕.
-
+- Explore [Material-UI](https://mui.com/material-ui/getting-started/overview/) for
